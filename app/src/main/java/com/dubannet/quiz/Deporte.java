@@ -23,6 +23,6 @@ public class Deporte extends AppCompatActivity {
             return insets;
         });
 
-    }
+
     }
 }
