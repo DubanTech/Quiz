@@ -27,7 +27,6 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="40dp"
         android:gravity="center"
-        android:hint="Digite su usuario"
         android:inputType="text"
         />
     <EditText
@@ -36,7 +35,6 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="40dp"
         android:gravity="center"
-        android:hint="Digite su usuario"
         android:inputType="text"
         />
     <TextView

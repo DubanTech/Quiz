@@ -30,8 +30,6 @@ public class MainActivity extends AppCompatActivity {
     AppCompatButton btnIniciar;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        //cerrarSesion();
-        //validar();
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_main);
@@ -90,7 +88,6 @@ public class MainActivity extends AppCompatActivity {
             }
 
         });
-        editor.clear().commit();
 
     }
     public void validar(){

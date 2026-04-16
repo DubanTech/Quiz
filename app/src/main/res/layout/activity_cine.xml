@@ -6,12 +6,4 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Cine">
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="Hello Cine"/>
-    <ImageView
-        android:id="@+id/fondo"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
 </LinearLayout>
