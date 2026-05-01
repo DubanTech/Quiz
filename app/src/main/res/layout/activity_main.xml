@@ -28,6 +28,7 @@
         android:layout_marginBottom="40dp"
         android:gravity="center"
         android:inputType="text"
+        android:hint="Nombre"
         />
     <EditText
         android:id="@+id/edad"
@@ -36,6 +37,7 @@
         android:layout_marginBottom="40dp"
         android:gravity="center"
         android:inputType="text"
+        android:hint="Edad"
         />
     <TextView
         android:layout_width="wrap_content"

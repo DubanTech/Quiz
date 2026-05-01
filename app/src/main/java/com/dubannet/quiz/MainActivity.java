@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
         );
 
         categoria.setAdapter(adapter);
+        validar();
 
         btnIniciar.setOnClickListener(new View.OnClickListener() {
             @Override
